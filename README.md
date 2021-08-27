@@ -15,12 +15,12 @@ npm install @txtony/tx-vue-scanner
 </template>
 
 <script>
-import TxVueScanner from "./components/TxVueScanner.vue"
+import * as TxScanner from "@txtony/tx-vue-scanner";
 
 export default {
   name: 'your-component',
   components: {
-      TxVueScanner
+      TxScanner
   },
   methods:{
       /**
