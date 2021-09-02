@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/TxTony/tx-vue-scanner"
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords":["barcode","qrCode","scanner","vue","vue-component","vue-barcode","vue-qrCode-scanner","js"],
   "private": false,
   "scripts": {
