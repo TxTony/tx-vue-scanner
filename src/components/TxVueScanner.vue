@@ -12,7 +12,7 @@ export default {
   props: {
     format: {
       type: String,
-      default: "qrcode",
+      default: "qrcode", // qrcode || barcode
     },
   },
   data: function () {
